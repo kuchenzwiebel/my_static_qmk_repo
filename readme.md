@@ -1,3 +1,7 @@
+
+# this is an OLD version of ZSA's fork of QMK Firmware that I may aditionally have messed up in several places! I only keep it for testing. 
+
+
 # ZSA's fork of QMK Firmware 
 
 [![Current Version](https://img.shields.io/github/tag/ErgoDox-EZ/qmk_firmware.svg)](https://github.com/ErgoDox-EZ/qmk_firmware/tags)
