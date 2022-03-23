@@ -22,3 +22,6 @@
 [submodule "lib/printf"]
 	path = lib/printf
 	url = https://github.com/qmk/printf
+[submodule "keyboards/ergodox_ez/keymaps/manushift"]
+	path = keyboards/ergodox_ez/keymaps/manushift
+	url = https://github.com/kuchenzwiebel/manushift
